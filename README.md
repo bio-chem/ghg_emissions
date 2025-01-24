@@ -1,4 +1,4 @@
-# GHG Emissions Analysis
+# GHG Emissions Analysis 
 
 ## Description
 This repository contains the scripts and data for analyzing greenhouse gas (GHG) emissions trends and creating visualizations. The analysis focuses on three specific aspects: GHG growth over time, per capita emissions grouped by income level, and contributions by continents and countries to global emissions.
@@ -35,6 +35,9 @@ Ensure the following Python libraries are installed:
 - pandas
 - matplotlib
 - seaborn
+
+## Author
+D. Milanovic
 
 
 
